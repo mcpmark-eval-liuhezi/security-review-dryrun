@@ -1,0 +1,7 @@
+{
+  "service_name": "demo-api",
+  "environment": "staging",
+  "api_key": "sk-demo-4f8a9c2b7e1d6350f9a8b2c4d6e8f0a1",
+  "timeout_seconds": 30,
+  "log_level": "info"
+}
